@@ -1,0 +1,106 @@
+    1  git init
+    2  sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+    3   git remote add origin https://github.com/rhony-11/AIDS_SY.git
+    4  git remote -v
+    5  git checkout main
+    6  origin  https://github.com/rhony-11/AIDS_SY.git (fetch)
+    7  sudo origin  https://github.com/rhony-11/AIDS_SY.git
+    8  sudo origin  https://github.com/rhony-11/AIDS_SY.git
+    9  sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+   10  sudo git remote -v
+   11  git pull
+   12  git checkout main
+   13  git status
+   14  git add
+   15  git add .
+   16  sudo apt get update
+   17  apt get update
+   18  sudo get update
+   19  get update
+   20  git init
+   21  sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+   22  sudo git remote -v
+   23  git pull
+   24  git checkout main
+   25  git status
+   26  git commit -m "File done"
+   27  sudo git commit -m "done"
+   28  git push
+   29  git branch
+   30  git pull origin main form https://github.com/rhony-11/AIDS_SY.git
+   31  git --version
+   32  git --version
+   33  git config --global user.name "Your Name"
+   34  git config --global user.email "your.email@example.com"
+   35  git clone https://github.com/rhony-11/AIDS_SY.git
+   36  cd Desktop
+   37  cd github
+   38  echo print("My Python file") > hello.py
+   39  echo print "My Python file" > hello.py
+   40  code .
+   41  git add hello.py
+   42  sudo git add hello.py
+   43  git commit -m "Add hello.py"
+   44  git push origin main
+   45  git clone https://github.com/rhony-11/AIDS_SY.git
+   46  git pull  origin main
+   47  git branch
+   48  git init
+   49  cd
+   50  git init
+   51  cd Desktop, github
+   52  cd Desktop
+   53  cd github
+   54  git push origin . main
+   55  git push
+   56  git push github
+   57  git checkout main
+   58  git push origin main
+   59  git checkout master
+   60  cd
+   61  cd
+   62  git init
+   63  cd gitfolder
+   64  cd Users
+   65  mkdir githubfolder
+   66  cd githubfolder
+   67  git init
+   68  cd
+   69  cd githubfolder
+   70  git checkout master
+   71  git branch -m master main
+   72  sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+   73  sudo git remote -v
+   74  git pull
+   75  git checkout main
+   76  echo print"Hello this is Python file" myfile.py
+   77  echo print"Hello this is Python file" > myfile.py
+   78  git status
+   79  git status
+   80  echo print "Hello World" pyth.py
+   81  echo print "Hello World" > pyth.py
+   82  git status
+   83  git commit -m "Saved this file"
+   84  git status
+   85  git push
+   86  git branch
+   87  git status
+   88  echo print("hello") > my.py
+   89  echo print "hello" > my.py
+   90  git status
+   91  clear
+   92  git status
+   93  echo print"Hey pagal" pagal.py
+   94  echo print"Hey pagal" > pagal.py
+   95  git status
+   96  git status
+   97  git add .
+   98  git config --global core.autocrlf false
+   99  git status
+  100  git add .
+  101  git commit -m "File done"
+  102  git push
+  103  git branch
+  104  git pull origin main from https://github.com/rhony-11/AIDS_SY.git
+  105  git init github
+  106  ls
