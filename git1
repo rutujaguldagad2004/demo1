@@ -1,0 +1,69 @@
+$ git init
+$ sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+$ git remote -v
+
+[origin https://github.com/rhony-11/AIDS_SY.git (fetch)
+origin https://github.com/rhony-11/AIDS_SY.git (push)]
+
+$ git checkout main
+$ cd Desktop
+$ cd github
+$ git init
+$ sudo git remote add origin https://github.com/rhony-11/AIDS_SY.git
+$ git remote -v
+
+[origin https://github.com/rhony-11/AIDS_SY.git (fetch)
+origin https://github.com/rhony-11/AIDS_SY.git (push)]
+
+$ git checkout main
+$ git pull
+
+$ sudo git pull
+$ git config --global user.name "Your Name"
+
+[git config --global user.email "your.email@example.com"
+git clone https://github.com/rhony-11/AIDS_SY.git]
+
+$ echo print "My Python file" > hello.py
+$ code . 
+$ git add hello.py
+$ git commit -m "Add hello.py"
+$ git push origin main
+
+[To https://github.com/rhony-11/AIDS_SY.git]
+
+$ git clone https://github.com/rhony-11/AIDS_SY.git
+$ git commit -m "File done"
+$ git push
+
+
+[git push --set-upstream origin main]
+
+$ git branch
+
+$ git pull origin main from https://github.com/rhony-11/AIDS_SY.git
+$ git init github
+$ ls
+$ git push origin main
+
+[To https://github.com/rhony-11/AIDS_SY.git]
+
+$ git push origin main
+
+[To https://github.com/rhony-11/AIDS_SY.git]
+
+$ git remote set-url origin https://github.com/rhony-11/AIDS_SY.git
+$ git branch
+$ git push-u origin main
+
+[To https://github.com/rhony-11/AIDS_SY.git]
+
+$ git add .
+
+[git commit -m "Your commit message"]
+
+$ git commit -m "Your commit message
+$ git push f origin main
+$ git pull origin main rebase
+$ git push origin main
+$ ls
